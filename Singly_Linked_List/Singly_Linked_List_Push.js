@@ -41,5 +41,3 @@ console.log(list);
 // var llist = new Node("Hello")
 // llist.next = new Node("World")
 // llist.next.next = new Node("JavaScript")
-
-console.log("Hello World!!!");
